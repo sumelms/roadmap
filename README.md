@@ -6,7 +6,7 @@ Our product roadmap is where you can learn about what features we're working on,
 
 The roadmap repository is for communicating Sumé LMS’ roadmap. Existing issues are currently read-only, and we are locking conversations, as we get started.
 
-Have any questions or comments about items on the roadmap? Share your feedback via [public discussions](https://github.com/sumelms/roadmap/discussions).
+Have any questions or comments about items on the roadmap? Share your feedback via [public discussions](https://github.com/orgs/sumelms/discussions).
 
 
 ## Guide to the roadmap
