@@ -17,6 +17,8 @@ Every item on the roadmap is an issue, with a label that indicates each of the f
 
 - A **feature area** that indicates the area of the product to which the item belongs. For a list of current product areas, see below.
 
+- A **feature targets** that indicates the main user target of the product to which the item belongs. For a list of current product targets, see below.
+
 - Once a feature is delivered, the **shipped** label will be applied to the roadmap issue and the issue will be closed with a comment linking to the relevant [Changelog](https://sumelms.com/changelog).
 
 ## Release phases
@@ -48,12 +50,51 @@ The roadmap is arranged on a project board to give a sense for how far out each 
 
 The following is a list of our current product areas:
 
-- **educator**: Focus on educator focused features
-- **student**: Focus on student focused features
 - **a11y**: Acessibility features
+- **activity**: Course Activity features
+- **behaviour advisor**: Behaviour Advisor features
+- **course**: Course features
 - **data**: Data platform integration features
-- **docs**: Project documentation improvements
-- **other**: Other featyres
+- **forum**: Forum features
+- **guardian**: Guardian features
+- **learning path**: Learning path features
+- **message**: Message features
+- **security**: General security features
+- **other**: Other features
+
+## Feature targets
+
+The following is a list of our current feature targets:
+
+- **educator**: The target user is the Educator
+- **student**: The target user is the Student
+- **administrator**: The target user is the System Administrator
+
+## Create an initiative
+
+The following is the list of steps for Sumé LMS Product Managers to follow in order to create new feature issues:
+
+1) [Create a issue](https://github.com/github/roadmap/issues/new)
+2) Use the following template:
+
+```md
+
+### Summary
+
+Can you summarize the feature or business requirement that justify this initiative?
+
+### Intended Outcome
+
+What is the desired outcome for this? What are the expected results? What define the success?
+
+### How will it work?
+
+Can you explain or describe one or more scenarios for this? How it should work? Who is going to interact with this?
+
+```
+> Do not forget to use a descritive, but short title to the issue.
+
+3. Add the relative labels to it.
 
 ## Disclaimer
 
