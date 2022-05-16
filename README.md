@@ -74,7 +74,7 @@ The following is a list of our current feature targets:
 
 The following is the list of steps for Sumé LMS Product Managers to follow in order to create new feature issues:
 
-1) [Create a issue](https://github.com/github/roadmap/issues/new)
+1) Create a issue
 2) Use the following template:
 
 ```md
